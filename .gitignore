@@ -1,1 +1,5 @@
 /compression_with_rust/target
+/rust_unzip/target
+/rust_get_request/target
+/rust_async/target
+/rust_api_call/target
