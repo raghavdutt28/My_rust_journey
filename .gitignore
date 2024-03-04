@@ -3,3 +3,4 @@
 /rust_get_request/target
 /rust_async/target
 /rust_api_call/target
+rust_basic_auth/target
