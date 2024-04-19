@@ -4,3 +4,4 @@
 /rust_async/target
 /rust_api_call/target
 rust_basic_auth/target
+rust_sqlite/target
