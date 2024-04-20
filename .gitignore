@@ -5,3 +5,4 @@
 /rust_api_call/target
 rust_basic_auth/target
 rust_sqlite/target
+rust_mongodb/target

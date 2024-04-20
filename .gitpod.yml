@@ -1,4 +1,6 @@
 
+image: gitpod/workspace-postgres
 vscode:
   extensions:
     - TabNine.tabnine-vscode
+    
