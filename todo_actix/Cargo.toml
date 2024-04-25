@@ -9,3 +9,5 @@ edition = "2021"
 actix-web= "4"
 actix-rt= "2.2"
 serde = {version="1.0.198", features = ["derive"]}
+dotenv = "0.15.0"
+config = "0.10.1"
