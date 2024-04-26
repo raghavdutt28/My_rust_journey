@@ -10,7 +10,7 @@ pub async fn get_todos(client: &Client) -> Result<Vec<TodoList>, io::Error>{
         .await
         .expect("Error getting todo lists")
         .iter()
-        .map(|row| TodoList::from_row_ref(row).unwrap());
+        .map(|row| TodoList::from_row_ref(row).unwrap())
         .collect::<Vec<TodoList>>();
     Ok(todos)
 }

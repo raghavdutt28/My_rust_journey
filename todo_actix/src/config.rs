@@ -9,8 +9,8 @@ pub struct ServerConfig{
 
 #[derive(Deserialize)]
 pub struct Config{
-    pub server: ServerConfig
-    pub pg: deadpool_postgres::Config
+    pub server: ServerConfig,
+    pub pg: deadpool_postgres::Config,
 }
 
 impl Config{
