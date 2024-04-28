@@ -7,3 +7,6 @@ rust_basic_auth/target
 rust_sqlite/target
 rust_mongodb/target
 todo_actix/target
+todo_actix/**/*.rs.bk
+todoactix/.idea
+todoactix/.env
